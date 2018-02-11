@@ -1,7 +1,3 @@
----------------------------------------------------------------------------------
--------------------------- START THE PITCH --------------------------------------
----------------------------------------------------------------------------------
-
 > Our mission is to bring to everyone the power of microservices.
 
 
@@ -89,20 +85,3 @@ Asyncy's HQ is in Amsterdam. Remote Ok.
 ### Press and Investors
 
 Please inquire at [hello@asyncy.com](mailto:hello@asyncy.com)
-
-
-
----------------------------------------------------------------------------------
----------------------------- END THE PITCH --------------------------------------
----------------------------------------------------------------------------------
-
-> Below are other concepts and topics that we may want to incorporate.
-
-
-## Our Story
-
-The story behind Asyncy starts with Storyscript, our domain-specific language.
-Years back while working on applications for small businesses customers asked for unique, long-running business logic to automate marketing and customer retention, among other business logic.
-These stories were written down in a format that the client could read and understand the logic behind the application.
-A transparent, syntax-light, language emerged through the common logic patterns that read like a book.
-Storyscript was born and paved the way for a new technique of rapidly prototyping applications.
